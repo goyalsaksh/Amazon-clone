@@ -1,8 +1,11 @@
 # Amazon-clone
-Our Amazon Clone is a comprehensive e-commerce platform that replicates the core functionalities and features of the popular online marketplace, Amazon.
-It provides a seamless shopping experience for customers and offers an opportunity for businesses to showcase and sell their products online.
-Our Amazon Clone aims to bring the convenience and reliability of Amazon to users worldwide.
-The Amazon Clone is optimized for mobile devices, ensuring a seamless shopping experience on smartphones and tablets.
+1.Our Amazon Clone is a comprehensive e-commerce platform that replicates the core functionalities and features of the popular online marketplace, Amazon.
+
+2.It provides a seamless shopping experience for customers and offers an opportunity for businesses to showcase and sell their products online.
+
+3.Our Amazon Clone aims to bring the convenience and reliability of Amazon to users worldwide.
+
+4.The Amazon Clone is optimized for mobile devices, ensuring a seamless shopping experience on smartphones and tablets.
 
   ## Tech Stack Used
 <img src="https://img.shields.io/badge/HTML-ColourCode?logo=HTML&logoColor=orange&style=ShieldStyle" />    <img src="https://img.shields.io/badge/CSS-ColourCode?logo=CSS&logoColor=blue&style=ShieldStyle" /> 
@@ -16,7 +19,7 @@ The Amazon Clone is optimized for mobile devices, ensuring a seamless shopping e
   For using Internet Speed Test Meter , user have to follow some instructions:
   1. Clone the Repo
      ```sh
-     git clone [https://github.com/goyalsaksh/amazon-clone.git]
+     git clone https://github.com/goyalsaksh/Amazon-clone.git
       ```
   2. Run index.html
     
