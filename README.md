@@ -22,11 +22,11 @@ The Amazon Clone is optimized for mobile devices, ensuring a seamless shopping e
     
      ## Application
 
-  ![Screenshot (189)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/a47beab6-0bec-4255-ae3f-cdcaddedb5e3)
+  ![Screenshot (189)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/a280b888-c5b8-4cee-a5b3-66fcc355b8b9)
 
-  ![Screenshot (190)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/111562ce-6484-45ce-a721-0abae2bf1749)
+  ![Screenshot (190)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/6dcda949-9119-4b72-9731-81aa0a261ff0)
   
-  ![Screenshot (191)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/c11fd21d-9eeb-42be-afba-d7a2caff8fe1)
+  ![Screenshot (191)](https://github.com/goyalsaksh/Amazon-clone/assets/98030516/cff495eb-4a66-44a4-9728-1087cd1a9e42)
 
 
   
