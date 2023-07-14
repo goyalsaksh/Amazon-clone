@@ -16,8 +16,8 @@ The Amazon Clone is optimized for mobile devices, ensuring a seamless shopping e
   For using Internet Speed Test Meter , user have to follow some instructions:
   1. Clone the Repo
      ```sh
-     git clone https://github.com/goyalsaksh/amazon-clone.git
-     ```
+     git clone [https://github.com/goyalsaksh/amazon-clone.git]
+      ```
   2. Run index.html
     
      ## Application
